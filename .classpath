@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="wingph Source Code/src"/>
+	<classpathentry kind="lib" path="wingph Source Code/dist/WinGph.jar"/>
+	<classpathentry kind="lib" path="WinGph.jar"/>
+	<classpathentry kind="output" path="wingph Source Code/build/classes"/>
+</classpath>
